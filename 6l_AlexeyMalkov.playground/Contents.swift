@@ -45,3 +45,4 @@ let filterQueue = queue.filter(array: queue.internalArray) {(i: Int) -> Bool in
 }
 print(filterQueue)
 queue.count
+//на проверку
